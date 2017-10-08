@@ -1,0 +1,4 @@
+﻿  FileSystem.cpp
+c:\users\samuel xing\desktop\codeanalyzerex-xing\codeanalyzerex1\filesystem\filesystem.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\samuel xing\desktop\codeanalyzerex-xing\codeanalyzerex1\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  FileSystem.vcxproj -> C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\x64\Debug\FileSystem.lib

@@ -1,0 +1,18 @@
+C:\su\Repository\CodeAnalyzer\TestFiles-CS\bin\Debug\TestFiles-CS.exe.config
+C:\su\Repository\CodeAnalyzer\TestFiles-CS\bin\Debug\TestFiles-CS.exe
+C:\su\Repository\CodeAnalyzer\TestFiles-CS\bin\Debug\TestFiles-CS.pdb
+C:\su\Repository\CodeAnalyzer\TestFiles-CS\obj\Debug\TestFiles-CS.csprojResolveAssemblyReference.cache
+C:\su\Repository\CodeAnalyzer\TestFiles-CS\obj\Debug\TestFiles-CS.exe
+C:\su\Repository\CodeAnalyzer\TestFiles-CS\obj\Debug\TestFiles-CS.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\CodeAnalyzerEx\TestFiles-CS\bin\Debug\TestFiles-CS.exe.config
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\CodeAnalyzerEx\TestFiles-CS\bin\Debug\TestFiles-CS.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\CodeAnalyzerEx\TestFiles-CS\bin\Debug\TestFiles-CS.pdb
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\CodeAnalyzerEx\TestFiles-CS\obj\Debug\TestFiles-CS.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\CodeAnalyzerEx\TestFiles-CS\obj\Debug\TestFiles-CS.exe
+\\hd.ad.syr.edu\03\7337a4\Documents\Desktop\CodeAnalyzerEx\TestFiles-CS\obj\Debug\TestFiles-CS.pdb
+C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles-CS\bin\Debug\TestFiles-CS.exe.config
+C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles-CS\bin\Debug\TestFiles-CS.exe
+C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles-CS\bin\Debug\TestFiles-CS.pdb
+C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles-CS\obj\Debug\TestFiles-CS.csprojResolveAssemblyReference.cache
+C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles-CS\obj\Debug\TestFiles-CS.exe
+C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles-CS\obj\Debug\TestFiles-CS.pdb

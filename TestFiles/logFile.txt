@@ -1,0 +1,18 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Sun Apr  2 20:14:07 2017
+     Path: "C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TestFiles"
+     Args: *.h, *.cpp, /f, /r, /x, strong_component.xml
+                                                                               
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: Test1.h : 23 - namespace A
+                Test3 :: Test3 Hello ; 
+
+
+    searched    16 dirs
+   processed     7 files

@@ -1,0 +1,13 @@
+
+<graph>
+  <vertex id="1" value="v2">
+  </vertex>
+  <vertex id="0" value="v1">
+  </vertex>
+  <vertex id="2" value="v3">
+  </vertex>
+  <vertex id="3" value="v4">
+  </vertex>
+  <vertex id="4" value="v5">
+  </vertex>
+</graph>

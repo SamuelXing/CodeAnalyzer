@@ -1,0 +1,18 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Sun Apr  2 21:06:54 2017
+     Path: "C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files"
+     Args: *.h, *.cpp, /f, /r, /x, strong_component.xml
+                                                                               
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: Child.h : 16 - struct element
+                std :: vector < element > children ; 
+
+
+    searched     2 dirs
+   processed     8 files

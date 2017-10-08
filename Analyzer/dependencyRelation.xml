@@ -1,0 +1,103 @@
+
+  <NoSqlDb>
+    <key>
+      Child.h
+    </key>
+    <value>
+      <name>
+        Child.h
+      </name>
+      <path>
+        C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Child\Child.h
+      </path>
+      <timedate>
+        now
+      </timedate>
+      <dependecy>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Parent.cpp
+        </relatedFile>
+      </dependecy>
+      <data>
+        default
+      </data>
+    </value>
+    <key>
+      Grandparent.h
+    </key>
+    <value>
+      <name>
+        Grandparent.h
+      </name>
+      <path>
+        C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Grandparent.h
+      </path>
+      <timedate>
+        now
+      </timedate>
+      <dependecy>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Test.cpp
+        </relatedFile>
+      </dependecy>
+      <data>
+        default
+      </data>
+    </value>
+    <key>
+      Child2.h
+    </key>
+    <value>
+      <name>
+        Child2.h
+      </name>
+      <path>
+        C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Child\Child2.h
+      </path>
+      <timedate>
+        now
+      </timedate>
+      <dependecy>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Grandparent.h
+        </relatedFile>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Test.cpp
+        </relatedFile>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Parent.h
+        </relatedFile>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Child\Child.h
+        </relatedFile>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Child\Child.cpp
+        </relatedFile>
+      </dependecy>
+      <data>
+        default
+      </data>
+    </value>
+    <key>
+      Parent.h
+    </key>
+    <value>
+      <name>
+        Parent.h
+      </name>
+      <path>
+        C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Parent.h
+      </path>
+      <timedate>
+        now
+      </timedate>
+      <dependecy>
+        <relatedFile>
+          C:\Users\samuel xing\Desktop\CodeAnalyzerEx-Xing\CodeAnalyzerEx1\TA-TEST-Project-2\files\Test.cpp
+        </relatedFile>
+      </dependecy>
+      <data>
+        default
+      </data>
+    </value>
+  </NoSqlDb>

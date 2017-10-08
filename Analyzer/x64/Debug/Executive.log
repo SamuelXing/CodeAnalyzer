@@ -1,0 +1,18 @@
+﻿  Executive.cpp
+  DepAnal.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  LINK : \\Mac\Home\Desktop\CodeAnalyzerEx1\x64\Debug\CodeAnalyzer.exe not found or not built by the last incremental link; performing full link
+  Executive.vcxproj -> \\Mac\Home\Desktop\CodeAnalyzerEx1\x64\Debug\CodeAnalyzer.exe
+  Executive.vcxproj -> \\Mac\Home\Desktop\CodeAnalyzerEx1\x64\Debug\CodeAnalyzer.pdb (Full PDB)
